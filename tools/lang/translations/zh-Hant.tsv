@@ -1,0 +1,10 @@
+key	zh-Hant
+menu_palbox	送入帕魯盒子
+menu_resummon	重新召喚
+menu_assign	分配工作
+tip_menu_palbox	將這隻帕魯送入你的帕魯盒子。
+tip_menu_resummon	將這隻帕魯送入帕魯盒子並立刻召回工作。
+tip_menu_assign	開啟該據點的固定工作分配面板。
+tip_cell_details	開啟這隻帕魯的詳情畫面，右鍵可開啟快捷操作。
+tip_cell_pin	將這隻帕魯的名稱和狀態固定在網格下方，右鍵可開啟快捷操作。
+tip_cell_empty	此工作欄位為空。

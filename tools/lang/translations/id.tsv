@@ -1,0 +1,10 @@
+key	id
+menu_palbox	Kirim ke Palbox
+menu_resummon	Panggil ulang
+menu_assign	Tugaskan
+tip_menu_palbox	Mengirim pal ini ke Palbox Anda.
+tip_menu_resummon	Mengirim pal ini ke Palbox lalu langsung kembali bekerja.
+tip_menu_assign	Membuka papan penugasan tetap markas ini.
+tip_cell_details	Membuka layar detail pal ini, dan klik kanan membuka aksi cepat.
+tip_cell_pin	Menyematkan nama dan status pal ini di bawah kisi, dan klik kanan membuka aksi cepat.
+tip_cell_empty	Slot pekerja ini kosong.

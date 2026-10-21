@@ -1,0 +1,10 @@
+key	pt-BR
+menu_palbox	Enviar para a Palbox
+menu_resummon	Reinvocar
+menu_assign	Atribuir
+tip_menu_palbox	Envia este pal para a sua Palbox.
+tip_menu_resummon	Envia este pal para a Palbox e de volta ao trabalho em seguida.
+tip_menu_assign	Abre o quadro de atribuição fixa desta base.
+tip_cell_details	Abre a tela de detalhes deste pal, e o clique direito abre as ações rápidas.
+tip_cell_pin	Fixa o nome e o estado deste pal abaixo da grade, e o clique direito abre as ações rápidas.
+tip_cell_empty	Esta vaga de trabalho está vazia.

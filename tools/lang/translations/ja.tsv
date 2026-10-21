@@ -1,0 +1,10 @@
+key	ja
+menu_palbox	パルボックスへ送る
+menu_resummon	再召喚
+menu_assign	作業割り当て
+tip_menu_palbox	このパルをパルボックスへ送ります。
+tip_menu_resummon	このパルをパルボックスへ送り、すぐに作業へ戻します。
+tip_menu_assign	この拠点の作業割り当て画面を開きます。
+tip_cell_details	このパルの詳細画面を開き、右クリックでクイック操作を開きます。
+tip_cell_pin	このパルの名前と状態をグリッドの下に固定し、右クリックでクイック操作を開きます。
+tip_cell_empty	この作業スロットは空です。

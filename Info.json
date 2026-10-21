@@ -1,0 +1,35 @@
+{
+  "ModName": "Tidy Base Info",
+  "PackageName": "TidyBaseInfo",
+  "Version": "1.4.0",
+  "DebugMode": false,
+  "MinRevision": null,
+  "Author": "Alkeari",
+  "Dependencies": [
+    "UE4SSExperimentalPW"
+  ],
+  "Tags": [
+    "UE4SS",
+    "User Interface",
+    "Utilities"
+  ],
+  "InstallRule": [
+    {
+      "Type": "Lua",
+      "Targets": [
+        "./Scripts",
+        "./Assets",
+        "./dlls"
+      ]
+    },
+    {
+      "Type": "Lua",
+      "IsServer": true,
+      "Targets": [
+        "./Scripts",
+        "./Assets",
+        "./dlls"
+      ]
+    }
+  ]
+}

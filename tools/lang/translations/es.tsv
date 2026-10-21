@@ -1,0 +1,10 @@
+key	es
+menu_palbox	Enviar a la Palbox
+menu_resummon	Volver a invocar
+menu_assign	Asignar
+tip_menu_palbox	Envía a este pal a tu Palbox.
+tip_menu_resummon	Envía a este pal a la Palbox y lo devuelve al trabajo enseguida.
+tip_menu_assign	Abre el panel de asignación fija de esta base.
+tip_cell_details	Abre la pantalla de detalles de este pal, y el clic derecho abre las acciones rápidas.
+tip_cell_pin	Fija el nombre y el estado de este pal bajo la cuadrícula, y el clic derecho abre las acciones rápidas.
+tip_cell_empty	Esta ranura de trabajo está vacía.

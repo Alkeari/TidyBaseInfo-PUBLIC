@@ -1,0 +1,10 @@
+key	pl
+menu_palbox	Wyślij do Palboxa
+menu_resummon	Przywołaj ponownie
+menu_assign	Przydziel
+tip_menu_palbox	Wysyła tego pala do twojego Palboxa.
+tip_menu_resummon	Wysyła tego pala do Palboxa i od razu z powrotem do pracy.
+tip_menu_assign	Otwiera tablicę stałych przydziałów tej bazy.
+tip_cell_details	Otwiera ekran szczegółów tego pala, a prawy przycisk myszy otwiera szybkie akcje.
+tip_cell_pin	Przypina imię i stan tego pala pod siatką, a prawy przycisk myszy otwiera szybkie akcje.
+tip_cell_empty	To stanowisko pracy jest puste.

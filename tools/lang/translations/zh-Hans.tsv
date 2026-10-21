@@ -1,0 +1,10 @@
+key	zh-Hans
+menu_palbox	送入帕鲁盒子
+menu_resummon	重新召唤
+menu_assign	分配工作
+tip_menu_palbox	将这只帕鲁送入你的帕鲁盒子。
+tip_menu_resummon	将这只帕鲁送入帕鲁盒子并立刻召回工作。
+tip_menu_assign	打开该据点的固定工作分配面板。
+tip_cell_details	打开这只帕鲁的详情界面，右键可打开快捷操作。
+tip_cell_pin	将这只帕鲁的名称和状态固定在网格下方，右键可打开快捷操作。
+tip_cell_empty	该工作槽为空。

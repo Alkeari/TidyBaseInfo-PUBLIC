@@ -1,0 +1,10 @@
+key	en
+menu_palbox	Send to Palbox
+menu_resummon	Resummon
+menu_assign	Assign
+tip_menu_palbox	Sends this pal to your Palbox.
+tip_menu_resummon	Sends this pal to the Palbox and straight back to work.
+tip_menu_assign	Opens this base's fixed assignment board.
+tip_cell_details	Opens this pal's details screen, and right-click for quick actions.
+tip_cell_pin	Pins this pal's name and status under the grid, and right-click for quick actions.
+tip_cell_empty	This worker slot is empty.

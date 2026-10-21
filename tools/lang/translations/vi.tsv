@@ -1,0 +1,10 @@
+key	vi
+menu_palbox	Gửi vào Palbox
+menu_resummon	Gọi lại
+menu_assign	Phân công
+tip_menu_palbox	Gửi pal này vào Palbox của bạn.
+tip_menu_resummon	Gửi pal này vào Palbox rồi đưa thẳng trở lại làm việc.
+tip_menu_assign	Mở bảng phân công cố định của căn cứ này.
+tip_cell_details	Mở màn hình chi tiết của pal này, và nhấp chuột phải để mở thao tác nhanh.
+tip_cell_pin	Ghim tên và trạng thái của pal này dưới lưới, và nhấp chuột phải để mở thao tác nhanh.
+tip_cell_empty	Ô làm việc này đang trống.

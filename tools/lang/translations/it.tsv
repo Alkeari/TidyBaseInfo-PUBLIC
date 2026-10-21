@@ -1,0 +1,10 @@
+key	it
+menu_palbox	Invia alla Palbox
+menu_resummon	Richiama
+menu_assign	Assegna
+tip_menu_palbox	Invia questo pal nella tua Palbox.
+tip_menu_resummon	Invia questo pal nella Palbox e subito di nuovo al lavoro.
+tip_menu_assign	Apre la bacheca di assegnazione fissa di questa base.
+tip_cell_details	Apre la schermata dei dettagli di questo pal, e il clic destro apre le azioni rapide.
+tip_cell_pin	Fissa nome e stato di questo pal sotto la griglia, e il clic destro apre le azioni rapide.
+tip_cell_empty	Questo posto di lavoro è vuoto.
